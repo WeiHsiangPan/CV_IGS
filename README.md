@@ -23,18 +23,18 @@
 ## Project Showcase 檔案
 
 ### 1. [Stochastic Modeling & Option Pricing](./Project-Showcase/Stochastic-Modeling) (成績: A)
-* **核心技術**：實作 **Black-Scholes 模型** 進行隨機過程建模與期權定價模擬。
-* **開發應用**：此機率邏輯可直接應用於遊戲經濟平衡、博弈期望值 (EV) 計算與風險評估。
+* 實作 **Black-Scholes 模型** 進行隨機過程建模與期權定價模擬
+* 此機率邏輯可直接應用於遊戲經濟平衡、博弈期望值 (EV) 計算與風險評估
 
 ### 2. [Wavefunction Simulation in VCSEL](./Project-Showcase/Wave-Simulation) (成績: A+)
 * [cite_start]**核心技術**：利用薛丁格方程式進行 **波函數模擬**，並透過傅立葉分析驗證干涉模態 [cite: 608, 631, 674]。
 * **開發應用**：對應遊戲物理引擎開發、力回饋震動頻率優化及動態視覺特效模擬。
 
-### 3. [Spectral Graph Theory & Matrix Analysis](./Project-Showcase/Spectral-Graph) (成績: A+)
+### 3. [Spectral Graph Theory & Matrix Analysis](./Project-Showcase/Spectral-Graph) (成績: A)
 * **核心技術**：探討 **譜圖論** 中圖結構與拉普拉斯矩陣的特徵值關係。
 * **開發應用**：應用於遊戲社群網路分析、Pagerank 演算法優化及系統關聯性邏輯。
 
-### 4. [Enhanced CNN with PCA & Spectral Clustering](./Project-Showcase/Digit-Recognition) (成績: A+)
+### 4. [Enhanced CNN with PCA & Spectral Clustering](./Project-Showcase/Digit-Recognition) (成績: A-)
 * **核心技術**：結合 **PCA 數據降維**、譜分群與 CNN 進行高效影像辨識。
 * **開發應用**：展現對運算效能優化的敏感度，將高維數據簡化以提升模型訓練與執行效率。
 
