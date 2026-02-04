@@ -1,4 +1,4 @@
-# 潘煒翔 (Wei-Hsiang Pan) | 遊戲開發實習生應徵 (IGS)
+# 潘煒翔 (Wei-Hsiang Pan) | 遊戲開發實習生應徵 (WANIN)
 
 
 ## 關於我
